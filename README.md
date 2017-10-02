@@ -1,1 +1,0 @@
-# homebrew-png2aa

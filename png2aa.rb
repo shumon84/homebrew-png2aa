@@ -3,7 +3,7 @@ class Png2aa < Formula
   homepage "https://github.com/shumon84/png2aa"
   url "https://github.com/shumon84/png2aa/archive/v1.2.tar.gz"
   version "1.2"
-  sha256 "d7191f0a6bc6266acb187011f387fd6a8df8096cc3c8c1886016032e7275851e"
+  sha256 "1fe2cd729c1dec19f3ef8f87927a4e839c9824971f24534f24204afcb8e2def4"
   depends_on "libpng"
   depends_on "jpeg"
 
